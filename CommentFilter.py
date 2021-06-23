@@ -9,7 +9,7 @@ Date:         2021/6/23
 """
 import re
 from re import RegexFlag
-from typing import List, AnyStr, Pattern, Union
+from typing import List, Union
 
 
 class CommentFilter(object):
